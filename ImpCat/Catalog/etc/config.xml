@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<global>
+		<models>
+			<catalog>
+				<rewrite>
+					<convert_adapter_category>ImpCat_Catalog_Model_Convert_Adapter_Category</convert_adapter_category>
+				</rewrite>
+			</catalog>
+		</models>
+	</global>
+</config>
